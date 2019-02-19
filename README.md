@@ -37,7 +37,7 @@ mysql> select * from employees;</br>
 +------------+-----------+------------+------------------------+</br>
 | first_name | last_name | department | email                  |</br>
 +------------+-----------+------------+------------------------+</br>
-| dharama    | rao       | IT         | dharmaraobala@mail.com |</br>
-| Lorenz     | Vanthillo | IT         | lvthillo@mail.com      |</br>
+| dharama    | rao       | IT         | bala@mail.com |</br>
+| Lorenz     | Vanthillo | IT         | lv@mail.com      |</br>
 +------------+-----------+------------+------------------------+</br>
 2 rows in set (0.00 sec)</br>
