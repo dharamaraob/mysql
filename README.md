@@ -1,5 +1,5 @@
 Write a Script file </br>
-Script has to create the Database </br>
+Script has to create the Database </br> ( Here I have taken mysql )
 and Table </br>
 and Instert data into it. </br>
 One approach would be, i would be creating a docker container and adding a docker-entrypoint.sh </br>
